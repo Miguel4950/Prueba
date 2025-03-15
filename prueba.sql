@@ -1,7 +1,6 @@
 
 /*
 
-
 --Creacion de tablas
 CREATE TABLE banco (
   id NUMBER(10,0) GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
